@@ -7,7 +7,7 @@
 
 🖥[117HD-API](https://github.com/117HD/117HD-API) - The API for the plugin. This is where the data gets sent to.
 
-![discord](https://user-images.githubusercontent.com/5789682/173276137-8ea82e88-4ec1-444f-baf0-4b0dc171901f.png) [discord-bot](https://github.com/117HD/discord-bot) - The NeverScapeAlone discord bot. This is the bot that manages our discord.
+![discord](https://user-images.githubusercontent.com/5789682/173276137-8ea82e88-4ec1-444f-baf0-4b0dc171901f.png) [discord-bot](https://github.com/117HD/discord-bot) - The 117HD discord bot. This is the bot that manages our discord.
 
 ## Support Us and Community Links
 ![twitter](https://user-images.githubusercontent.com/5789682/173276125-347af1a5-e866-4770-97b2-7ebd3ab1aaa6.png)
