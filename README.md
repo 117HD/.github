@@ -1,7 +1,6 @@
-#  ![image](https://user-images.githubusercontent.com/5789682/177055555-65039e3e-5749-43da-b801-c53f53613b33.png)
- 117HD ![image](https://user-images.githubusercontent.com/5789682/177055556-5c80a7df-eb8d-4aeb-8c45-c68ca4917e0d.png)
+![117hd](https://user-images.githubusercontent.com/5789682/177055757-3f288259-1d9b-48b3-ba5d-a5783d90d638.png)
 
-#### 
+#### GPU renderer with a suite of graphical enhancements.
 
 ## Repository Listings
 🔌[117HD](https://github.com/117HD/RLHD) - The plugin itself.
