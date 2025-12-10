@@ -1,23 +1,36 @@
-![117hd](https://user-images.githubusercontent.com/5789682/177055757-3f288259-1d9b-48b3-ba5d-a5783d90d638.png)
+<p align="center"><img width=60% src="https://user-images.githubusercontent.com/831317/223843536-9aa497c7-37ed-4d5f-98fd-1ba8aaa99d40.png"></p>
 
-#### GPU renderer with a suite of graphical enhancements.
+<p align="center">
+  <img src="https://img.shields.io/discord/886733267284398130.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge">
+</p>
 
-## Repository Listings
-🔌[117HD](https://github.com/117HD/RLHD) - The plugin itself.
 
-🖥[117HD-API](https://github.com/117HD/117HD-API) - The API for the plugin. This is where the data gets sent to.
+# 117 HD
 
-![discord](https://user-images.githubusercontent.com/5789682/173276137-8ea82e88-4ec1-444f-baf0-4b0dc171901f.png) [discord-bot](https://github.com/117HD/discord-bot) - The 117HD discord bot. This is the bot that manages our discord.
+GPU renderer with a suite of graphical enhancements.
 
-## Support Us and Community Links
-![twitter](https://user-images.githubusercontent.com/5789682/173276125-347af1a5-e866-4770-97b2-7ebd3ab1aaa6.png)
-[Twitter](https://twitter.com/117scape)
+# How to install it
 
+- Download RuneLite from their website: https://runelite.net
+- Launch RuneLite
+- Click the Wrench icon on the top right of the RuneLite window
+- Click the Plugin-Hub button on the right side near the top
+- Search for "117 HD"
+- Click Install
+
+![Installation intruction gif](https://user-images.githubusercontent.com/72366279/223843005-6175c825-7f35-4bcb-84eb-882321a017f7.gif)
+
+# Links
 ![discord](https://user-images.githubusercontent.com/5789682/173276137-8ea82e88-4ec1-444f-baf0-4b0dc171901f.png)
-[Discord](https://discord.gg/U4p6ChjgSE)
+[Discord](https://discord.gg/U4p6ChjgSE) - Our Discord server.
 
-![github](https://user-images.githubusercontent.com/5789682/173276200-a073b459-e9b6-45da-82b7-c1d88e1dd268.png)
-[Github](https://github.com/117HD)
+🔌 [117HD](https://github.com/117HD/RLHD) - The plugin's source code.
+
+🤖 [Discord-Bot](https://github.com/117HD/discord-bot) - Our Discord bot's source code.
+
+# Links to the original author
+![twitter](https://user-images.githubusercontent.com/5789682/173276125-347af1a5-e866-4770-97b2-7ebd3ab1aaa6.png)
+[117's Twitter](https://twitter.com/117scape) - The original author's Twitter handle.
 
 ![patreon](https://user-images.githubusercontent.com/5789682/173276176-22dd9dcc-40c8-472b-9da2-455eebec296a.png)
-[Patreon](https://www.patreon.com/RS_117)
+[117's Patreon](https://www.patreon.com/RS_117) - If you wish to support the original author of the plugin.
